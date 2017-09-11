@@ -3,7 +3,7 @@ import Formsy from 'formsy-react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import FormsyText from 'formsy-material-ui/lib/FormsyText';
 import RaisedButton from 'material-ui/RaisedButton' 
-import { Base,styles }	from './Base.jsx';
+import { Base,styles }	from './base';
 
 
 export class Login extends Base{
